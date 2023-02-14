@@ -1,3 +1,3 @@
 #!/bin/bash
-Hello, World
-chmod -v +x hello.sh
+ “Hello, World”
+
